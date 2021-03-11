@@ -1,22 +1,20 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Niel</strong> Van&nbspBuggenhout
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true
-social: true
+    <p>Niel Van Buggenhout<br>
+    PhD researcher at KU Leuven
+    </p>
+    
+news: false
+social: false
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD research at KU Leuven, department of Computer science under supervision of [Marc Van Barel](https://people.cs.kuleuven.be/~marc.vanbarel/website.html) and [Raf Vandebril](https://people.cs.kuleuven.be/~raf.vandebril/). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
