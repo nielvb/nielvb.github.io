@@ -6,8 +6,9 @@ title: publications
 ---
 
 
-publications
-============
+
+## Journal Articles ##
+
 
 ### 2020
 
@@ -19,4 +20,8 @@ publications
 1.  Biorthogonal rational Krylov subspace methods and _Van Buggenhout, N._ and Van Barel, M. and Vandebril, R. Electronic Transactions on Numerical Analysis, vol. 51 (2019), pp. 451-468 [\[link\]](https://doi.org/10.1553/etna_vol51s451)
     
 
+    
+    
+## Talks ##
+    
 © Copyright 2021 Your Name. Powered by [Jekyll](http://jekyllrb.com/) with [al-folio](https://github.com/alshedivat/al-folio) theme. Hosted by [GitHub Pages](https://pages.github.com/).
