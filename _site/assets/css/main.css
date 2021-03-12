@@ -530,7 +530,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: 100; }
 
 div.equation { margin: 0.5rem 0; }
 
-.figure { display: table; margin: 0; float: right; margin-right: -160px; }
+.figure { display: table; margin: 0; float: right; margin-right: -160px; width: 30%; height:auto;}
 
 .figure img { max-width: 100%; }
 
