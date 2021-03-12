@@ -1,0 +1,16 @@
+.figure {
+  display: table;
+  margin: 0;
+  float: right; 
+  margin-right: -160px; 
+}
+
+.figure img {
+  max-width: 100%;
+}
+
+.figcaption {
+  display: table-caption;
+  caption-side: bottom;
+  padding: 10px;
+}

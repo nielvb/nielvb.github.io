@@ -1,7 +1,6 @@
 ---
-layout: about
 permalink: /
-title: <strong>Niel</strong> Van&nbspBuggenhout
+title: About me
 
 profile:
   align: right
@@ -11,11 +10,27 @@ profile:
     PhD researcher at KU Leuven
     </p>
     
-news: false
-social: false
 ---
-I am a PhD research at KU Leuven, department of Computer science under supervision of [Marc Van Barel](https://people.cs.kuleuven.be/~marc.vanbarel/website.html) and [Raf Vandebril](https://people.cs.kuleuven.be/~raf.vandebril/). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<div>
+<figure class="figure">
+<img src="assets/img/prof_pic.jpg"
+     alt="profile picture"
+     style="width: 60%; height: auto;"/>
+  <figcaption class="figcaption">Niel Van Buggenhout<br>
+    PhD researcher at KU Leuven </figcaption>
+</figure> 
+</div>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+# About me #
+I am a PhD research at KU Leuven, department of Computer science under supervision of [Marc Van Barel](https://people.cs.kuleuven.be/~marc.vanbarel/website.html) and [Raf Vandebril](https://people.cs.kuleuven.be/~raf.vandebril/). 
+My research focusses on structured matrices in the context of rational Krylov subspaces.
+The study of these matrices can be used to develop numerically stable algorithms for a variety of problems in mathematics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+# Research interests #
+
+* Structured matrices
+* Orthogonal polynomials
+* Short recurrence relations
+* Moment problems
+* Biorthogonal Krylov subspace methods
