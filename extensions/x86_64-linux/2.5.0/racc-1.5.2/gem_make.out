@@ -1,0 +1,16 @@
+current directory: /home/niel/niel_website/gems/racc-1.5.2/ext/racc/cparse
+/usr/bin/ruby2.5 -r ./siteconf20210312-6049-aowkis.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/niel/niel_website/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/niel/niel_website/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/niel/niel_website/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20210312-6049-z2svfg/racc
