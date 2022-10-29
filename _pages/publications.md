@@ -9,16 +9,24 @@ title: Publications
 
 ## Journal Articles ##
 
+### 2022
+* **A Lanczos-type procedure for tensors**, Cipolla, S., Pozza, S., Redivo-Zaglia, M., and Van Buggenhout, N., Numerical Algorithms, published online (2022)
+<br/>
+[\[link\]](https://doi.org/10.1007/s11075-022-01351-6)
+
+### 2021
+* **Generation of orthogonal rational functions by procedures for structured matrices**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Numerical Algorithms, vol. 89 (2022), pp. 551-582 <br/>
+[\[link\]](https://doi.org/10.1007/s11075-021-01125-6)
 
 ### 2020
 
-*  **Non-unitary CMV-decomposition**, Van Buggenhout, N., Van Barel, M., and Vandebril, R. Special Matrices, vol. 8, no. 1, (2020), pp. 144-159 <br/>
+*  **Non-unitary CMV-decomposition**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Special Matrices, vol. 8, no. 1, (2020), pp. 144-159 <br/>
 [\[link\]](https://doi.org/10.1515/spma-2020-0107)
     
 
 ### 2019
 
-*  **Biorthogonal rational Krylov subspace methods**, Van Buggenhout, N., Van Barel, M., and Vandebril, R. Electronic Transactions on Numerical Analysis, vol. 51 (2019), pp. 451-468 <br/>
+*  **Biorthogonal rational Krylov subspace methods**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Electronic Transactions on Numerical Analysis, vol. 51 (2019), pp. 451-468 <br/>
 [\[link\]](https://doi.org/10.1553/etna_vol51s451)
     
 
