@@ -7,7 +7,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Niel Van Buggenhout<br>
-    PhD researcher at KU Leuven
+    PostDoc researcher at Charles university
     </p>
     
 ---
@@ -17,13 +17,13 @@ profile:
      alt="profile picture"
      style="width: 60%; height: auto;"/>
   <figcaption class="figcaption">Niel Van Buggenhout<br>
-    PhD researcher at KU Leuven </figcaption>
+    PostDoc researcher at Charles university </figcaption>
 </figure> 
 </div>
 
 # About me #
 
-I am a PhD researcher at KU Leuven, department of Computer science under supervision of [Marc Van Barel](https://people.cs.kuleuven.be/~marc.vanbarel/website.html) and [Raf Vandebril](https://people.cs.kuleuven.be/~raf.vandebril/). 
+I am a PostDoc researcher at Charles university, Faculty of mathematics and physics, in Prague. 
 My research focusses on structured matrices in the context of rational Krylov subspaces.
 The study of these matrices can be used to develop numerically stable algorithms for a variety of problems in mathematics.
 
