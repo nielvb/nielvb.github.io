@@ -3,7 +3,7 @@ permalink: /
 title: About me
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   address: >
     <p>Niel Van Buggenhout<br>
@@ -22,6 +22,7 @@ profile:
 </div>
 
 # About me #
+
 I am a PhD researcher at KU Leuven, department of Computer science under supervision of [Marc Van Barel](https://people.cs.kuleuven.be/~marc.vanbarel/website.html) and [Raf Vandebril](https://people.cs.kuleuven.be/~raf.vandebril/). 
 My research focusses on structured matrices in the context of rational Krylov subspaces.
 The study of these matrices can be used to develop numerically stable algorithms for a variety of problems in mathematics.
@@ -32,5 +33,5 @@ The study of these matrices can be used to develop numerically stable algorithms
 * Structured matrices
 * Orthogonal polynomials
 * Short recurrence relations
-* Moment problems
+* Spectral methods
 * Biorthogonal Krylov subspace methods
