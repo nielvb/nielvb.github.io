@@ -22,9 +22,27 @@ title: Publications
 [\[link\]](https://doi.org/10.1553/etna_vol51s451)
     
 
-    
+## Upcoming conferences ##
+
+* <a href="https://www.ugn.cas.cz/event/2023/sna/">SNA'23</a>  Ostrava, January 23-27, 2023.
+
+* <a href="https://ilas2023.es/">ILAS2023</a>  Madrid, June 12-16, 2023.
     
 ## Talks ##
+
+* "$\star$-procedure to solve non-autonomous ODEs". GAMM Workshop on Applied and Numerical Linear Algebra (GAMM ANLA), 22-23 Sep, 2022.
+
+* "Discretization of the $\star$-product". 92nd annual meeting of the International Association of Applied Mathematics and Mechanics (GAMM), Aachen, 15-19 Aug, 2022
+
+* "Generating orthogonal polynomials with Krylov subspace methods'". Summer school on Orthogonal Polynomials, Special Functions and their Applications (OPSFA), Radboud university, Nijmegen, 7-12 Aug, 2022.
+
+* "Construction of a sequence of orthogonal rational functions". Conference on Functional Analysis, Approximation Theory and Numerical Analysis (FAATNA20>22), Matera, 5-8 Jul, 2022.
+
+* "$\star$-Lanczos procedure for non-autonomous ODEs". 24th Conference of the International Linear Algebra Society, Galway, 20-24 Jun, 2022.
+
+* "Solving non-autonomous ODEs  in the $\star$-framework". Numerical Linear Algebra seminar, university of Manchester, 16 Jun, 2022.
+
+* "Discretization of the $\star$-Lanczos procedure". Conference on Numerical Methods for Large Scale Problems (NMLSP 2022), Belgrade, 6-10 Jun, 2022.
 
 * "Structured matrices in (rational) Krylov subspace methods". Seminar of Numerical Mathematics, Charles University, 17 Feb 2022.
 
