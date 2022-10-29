@@ -24,8 +24,7 @@ profile:
 # About me #
 
 I am a PostDoc researcher at Charles university, Faculty of mathematics and physics, in Prague. 
-My research focusses on structured matrices in the context of rational Krylov subspaces.
-The study of these matrices can be used to develop numerically stable algorithms for a variety of problems in mathematics.
+Here, I am working on a <a href="https://www.starlanczos.cz/the-project">project</a> to develop a new numerical method for solving time-dependent non-autonomous ordinary differential equations.
 
 
 # Research interests #
