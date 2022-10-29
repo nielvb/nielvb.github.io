@@ -10,6 +10,6 @@ title: Contact
 
 ### email
 
-niel.vanbuggenhout[at]kuleuven.be
+buggenhout[at]karlin.mff.cuni.cz
     
 
