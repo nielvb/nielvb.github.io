@@ -26,18 +26,24 @@ title: Publications
     
 ## Talks ##
 
-* Van Buggenhout, N., Van Barel, M., and Vandebril, R. "Numerically stable generation of orthogonal rational functions". Presented at the NUMA Seminar, KU Leuven, 04 Mar 2021.
+* "Structured matrices in (rational) Krylov subspace methods". Seminar of Numerical Mathematics, Charles University, 17 Feb 2022.
 
-*  Van Buggenhout, N., Vandebril, R., and Van Barel, M.  "Matrix Structures Related to Rational Krylov Subspaces". Presented at the The Seventh International Conference on Numerical Algebra and Scientific Computing (NASC 2019), Nanjing, China, 21 Oct 2019. 
+* "Construction of a sequence of orthogonal rational functions". Conference on Numerical Methods and Scientific Computing (NMSC21), CIRM Luminy, 8-12 Nov, 2021
 
-* Van Buggenhout, N., Van Barel, M., and Vandebril, R. "Matrix Structures in Rational Krylov Subspace Methods". Presented at the 22nd Conference of the International Linear Algebra Society (ILAS), Rio de Janeiro, Brazil, 10 Jul 2019.
+* "Generating orthogonal rational functions by solving structured inverse eigenvalue problems". SIAM conference on Applied Linear Algebra (LA21), Virtual, 17-21 May 2021.
 
-* Van Buggenhout, N., Van Barel, M., and Vandebril, R. "Biorthogonal Rational Krylov Subspace Methods". Presented at the Recent Advances in Scientific Computation (ETNA25), Santa Margherita di Pula, Italy, 28 May 2019.
+* "Numerically stable generation of orthogonal rational functions". NUMA Seminar, KU Leuven, 04 Mar 2021.
 
-* Van Buggenhout, N., Vandebril, R., and Van Barel, M. "Biorthogonal Rational Krylov Subspace Methods". Presented at the The International Conference Mathematical Modeling with Applications (M2A19), Mohammed V University, Rabat, Morocco, 02 Apr 2019.
+* "Matrix Structures Related to Rational Krylov Subspaces". The Seventh International Conference on Numerical Algebra and Scientific Computing (NASC 2019), Nanjing, China, 21 Oct 2019. 
+
+* "Matrix Structures in Rational Krylov Subspace Methods". 22nd Conference of the International Linear Algebra Society (ILAS), Rio de Janeiro, Brazil, 10 Jul 2019.
+
+* "Biorthogonal Rational Krylov Subspace Methods". Conference on Recent Advances in Scientific Computation (ETNA25), Santa Margherita di Pula, Italy, 28 May 2019.
+
+* "Biorthogonal Rational Krylov Subspace Methods". The International Conference Mathematical Modeling with Applications (M2A19), Mohammed V University, Rabat, Morocco, 02 Apr 2019.
     
-* Van Buggenhout, N., Van Barel, M., and Vandebril, R. "A unifying representation of oblique projections onto Krylov subspaces". Presented at the NUMA Seminar, KU Leuven, Leuven, Belgium, 14 Feb 2019.
+* "A unifying representation of oblique projections onto Krylov subspaces". NUMA Seminar, KU Leuven, Leuven, Belgium, 14 Feb 2019.
 
 ## Posters ##
-* Van Buggenhout, N., Van Barel, M., and Vandebril, R. "Biorthogonal Extended Lanczos Iteration". Presented at the forty-third Woudschoten Conference, Zeist, The Netherlands, 04 Oct 2018.
+* "Biorthogonal Extended Lanczos Iteration". Forty-third Woudschoten Conference, Zeist, The Netherlands, 04 Oct 2018.
 
