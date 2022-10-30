@@ -7,10 +7,18 @@ title: Preprints
 
 
 
+### 2022
 
-### 2021
+* **The $\star$-product approach for linear ODEs: a numerical study of the scalar case**, Pozza, S., and Van Buggenhout, N. <br/>
+[\[link\]](https://arxiv.org/abs/2209.13322)
 
-*  **Generation of orthogonal rational functions by procedures for structured matrices**, Van Buggenhout, N., Van Barel, M., and Vandebril, R. <br/>
-[\[link\]](https://arxiv.org/abs/2103.04788)
-    
+
+* **A $\star$-product solver with spectral accuracy for non-autonomous ordinary differential equations**, Pozza, S., and Van Buggenhout, N. <br/>
+[\[link\]](https://arxiv.org/abs/2209.15533)
+
+
+* **A new matrix equation expression for the solution of non-autonomous linear systems of ODEs**, Pozza, S., and Van Buggenhout, N. <br/>
+[\[link\]](https://arxiv.org/abs/2210.07052)
+
+
 
