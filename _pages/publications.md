@@ -72,7 +72,7 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
 * "Biorthogonal Rational Krylov Subspace Methods". The International Conference Mathematical Modeling with Applications (M2A19), Mohammed V University, Rabat, Morocco, 02 Apr 2019.
     
 * "A unifying representation of oblique projections onto Krylov subspaces". NUMA Seminar, KU Leuven, Leuven, Belgium, 14 Feb 2019.
-</span>
+
 ## Posters ##
 * "Biorthogonal Extended Lanczos Iteration". Forty-third Woudschoten Conference, Zeist, The Netherlands, 04 Oct 2018.
-
+</span>
