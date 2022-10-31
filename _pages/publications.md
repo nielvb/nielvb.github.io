@@ -34,7 +34,7 @@ title: Publications
     
 ## PhD thesis ##
 * <span style="color:black">**Structured Matrix Techniques for Orthogonal Rational Functions and Rational Krylov Methods**</span>  
-<iframe src="/assets/pdf/thesis.pdf#toolbar=0" width="100%" height="500px"> </iframe>
+    <a href ="/assets/pdf/thesis.pdf" attributes-list download > Link Text </a>  
 ## Upcoming conferences ##
 
 * <a href="https://www.ugn.cas.cz/event/2023/sna/">SNA'23</a>  Ostrava, January 23-27, 2023.
