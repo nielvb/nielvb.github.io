@@ -12,17 +12,17 @@ title: Publications
 * <span style="color:black">**A Lanczos-type procedure for tensors**, Cipolla, S., Pozza, S., Redivo-Zaglia, M., and Van Buggenhout, N., Numerical Algorithms, published online (2022)</span>
 <a href="https://doi.org/10.1007/s11075-022-01351-6" target="_blank" rel="noopener noreferrer">[Link]</a>
 
-* **Generation of orthogonal rational functions by procedures for structured matrices**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Numerical Algorithms, vol. 89 (2022), pp. 551-582 <a href="https://doi.org/10.1007/s11075-021-01125-6" target="_blank" rel="noopener noreferrer">[Link]</a>
+* <span style="color:black">**Generation of orthogonal rational functions by procedures for structured matrices**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Numerical Algorithms, vol. 89 (2022), pp. 551-582 </span> <a href="https://doi.org/10.1007/s11075-021-01125-6" target="_blank" rel="noopener noreferrer">[Link]</a>
 
 
-*  **Non-unitary CMV-decomposition**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Special Matrices, vol. 8, no. 1, (2020), pp. 144-159 <a href="https://doi.org/10.1515/spma-2020-0107" target="_blank" rel="noopener noreferrer">[Link]</a>
+*  <span style="color:black">**Non-unitary CMV-decomposition**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Special Matrices, vol. 8, no. 1, (2020), pp. 144-159 </span> <a href="https://doi.org/10.1515/spma-2020-0107" target="_blank" rel="noopener noreferrer">[Link]</a>
 
     
-*  **Biorthogonal rational Krylov subspace methods**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Electronic Transactions on Numerical Analysis, vol. 51 (2019), pp. 451-468 <a href="https://doi.org/10.1553/etna_vol51s451" target="_blank" rel="noopener noreferrer">[Link]</a>
+*  <span style="color:black">**Biorthogonal rational Krylov subspace methods**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Electronic Transactions on Numerical Analysis, vol. 51 (2019), pp. 451-468 </span> <a href="https://doi.org/10.1553/etna_vol51s451" target="_blank" rel="noopener noreferrer">[Link]</a>
 
     
 ## PhD thesis ##
-* **Structured Matrix Techniques for Orthogonal Rational Functions and Rational Krylov Methods**
+* <span style="color:black">**Structured Matrix Techniques for Orthogonal Rational Functions and Rational Krylov Methods**</span>
 
 ## Upcoming conferences ##
 
@@ -31,7 +31,7 @@ title: Publications
 * <a href="https://ilas2023.es/">ILAS2023</a>  Madrid, June 12-16, 2023.
     
 ## Talks ##
-
+<span style="color:black">
 * "$\star$-procedure to solve non-autonomous ODEs". GAMM Workshop on Applied and Numerical Linear Algebra (GAMM ANLA), 22-23 Sep, 2022.
 
 * "Discretization of the $\star$-product". 92nd annual meeting of the International Association of Applied Mathematics and Mechanics (GAMM), Aachen, 15-19 Aug, 2022
@@ -63,7 +63,7 @@ title: Publications
 * "Biorthogonal Rational Krylov Subspace Methods". The International Conference Mathematical Modeling with Applications (M2A19), Mohammed V University, Rabat, Morocco, 02 Apr 2019.
     
 * "A unifying representation of oblique projections onto Krylov subspaces". NUMA Seminar, KU Leuven, Leuven, Belgium, 14 Feb 2019.
-
+</span>
 ## Posters ##
 * "Biorthogonal Extended Lanczos Iteration". Forty-third Woudschoten Conference, Zeist, The Netherlands, 04 Oct 2018.
 
