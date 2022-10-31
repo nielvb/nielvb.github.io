@@ -30,16 +30,16 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
 *  <span style="color:black">**Biorthogonal rational Krylov subspace methods**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Electronic Transactions on Numerical Analysis, vol. 51 (2019), pp. 451-468 </span> <a href="https://doi.org/10.1553/etna_vol51s451" target="_blank" rel="noopener noreferrer">[Link]</a>
 
     
-## PhD thesis ##
+# PhD thesis #
 * <span style="color:black">**Structured Matrix Techniques for Orthogonal Rational Functions and Rational Krylov Methods**</span>  
-    <a href ="/assets/pdf/thesis.pdf" attributes-list download > Link Text </a>  
+    <a href ="/assets/pdf/thesis.pdf" attributes-list download >[Link]</a>  
 ## Upcoming conferences ##
 
 * <a href="https://www.ugn.cas.cz/event/2023/sna/">SNA'23</a>  Ostrava, January 23-27, 2023.
 
 * <a href="https://ilas2023.es/">ILAS2023</a>  Madrid, June 12-16, 2023.
     
-## Talks ##
+# Talks #
 <span style="color:black">
 * "$\star$-procedure to solve non-autonomous ODEs". GAMM Workshop on Applied and Numerical Linear Algebra (GAMM ANLA), 22-23 Sep, 2022.
 
