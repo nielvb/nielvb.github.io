@@ -4,10 +4,8 @@ permalink: /publications
 title: Publications
 
 ---
-
-
 ## Preprints ##
-
+All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+buggenhout&searchtype=all" target="_blank" rel="noopener noreferrer">here</a> 
 * **The $\star$-product approach for linear ODEs: a numerical study of the scalar case**, Pozza, S., and Van Buggenhout, N. (2022) <a href="https://arxiv.org/abs/2209.13322" target="_blank" rel="noopener noreferrer">[Link]</a>
 
 * **A $\star$-product solver with spectral accuracy for non-autonomous ordinary differential equations**, Pozza, S., and Van Buggenhout, N. (2022) <a href="https://arxiv.org/abs/2209.15533" target="_blank" rel="noopener noreferrer">[Link]</a>
