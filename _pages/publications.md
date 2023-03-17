@@ -6,6 +6,11 @@ title: Publications
 ---
 ## Preprints ##
 All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+buggenhout&searchtype=all" target="_blank" rel="noopener noreferrer">here</a> 
+
+* **On generating Sobolev orthogonal polynomials**, Van Buggenhout, N. (2023) <a href="https://arxiv.org/abs/2302.10691" target="_blank" rel="noopener noreferrer">[Link]</a>
+
+* **Algorithms for Modifying Recurrence Relations of Orthogonal Polynomial and Rational Functions when Changing the Discrete Inner Product**, Van Barel, M., Van Buggenhout, N., and Vandebril R. (2023) <a href="https://arxiv.org/abs/2302.00355" target="_blank" rel="noopener noreferrer">[Link]</a>
+
 * **The $\star$-product approach for linear ODEs: a numerical study of the scalar case**, Pozza, S., and Van Buggenhout, N. (2022) <a href="https://arxiv.org/abs/2209.13322" target="_blank" rel="noopener noreferrer">[Link]</a>
 
 * **A $\star$-product solver with spectral accuracy for non-autonomous ordinary differential equations**, Pozza, S., and Van Buggenhout, N. (2022) <a href="https://arxiv.org/abs/2209.15533" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -35,13 +40,14 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
     <a href ="/assets/pdf/thesis.pdf" attributes-list download >[Link]</a>  
 ## Upcoming conferences ##
 
-* <a href="https://www.ugn.cas.cz/event/2023/sna/">SNA'23</a>  Ostrava, January 23-27, 2023.
-
 * <a href="https://ilas2023.es/">ILAS2023</a>  Madrid, June 12-16, 2023.
     
 # Talks #
 <span style="color:black">
-* "$\star$-procedure to solve non-autonomous ODEs". GAMM Workshop on Applied and Numerical Linear Algebra (GAMM ANLA), 22-23 Sep, 2022.
+
+* "$\star$-procedure to solve non-autonomous ODEs". Seminar on Numerical Analysis (SNA'23), Ostrava, January 23-27, 2023.
+
+* "$\star$-procedure to solve non-autonomous ODEs". GAMM Workshop on Applied and Numerical Linear Algebra (GAMM ANLA), Prague, 22-23 Sep, 2022.
 
 * "Discretization of the $\star$-product". 92nd annual meeting of the International Association of Applied Mathematics and Mechanics (GAMM), Aachen, 15-19 Aug, 2022
 
