@@ -23,7 +23,7 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
 
 ## Journal Articles ##
 
-* <span style="color:black">**A Lanczos-type procedure for tensors**, Cipolla, S., Pozza, S., Redivo-Zaglia, M., and Van Buggenhout, N., Numerical Algorithms, published online (2022)</span>
+* <span style="color:black">**A Lanczos-type procedure for tensors**, Cipolla, S., Pozza, S., Redivo-Zaglia, M., and Van Buggenhout, N., Numerical Algorithms,Numerical Algorithms 92, 377–406 (2023).</span>
 <a href="https://doi.org/10.1007/s11075-022-01351-6" target="_blank" rel="noopener noreferrer">[Link]</a>
 
 * <span style="color:black">**Generation of orthogonal rational functions by procedures for structured matrices**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Numerical Algorithms, vol. 89 (2022), pp. 551-582 </span> <a href="https://doi.org/10.1007/s11075-021-01125-6" target="_blank" rel="noopener noreferrer">[Link]</a>
