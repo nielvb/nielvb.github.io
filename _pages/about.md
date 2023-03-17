@@ -30,7 +30,6 @@ Here, I am working on a <a href="https://www.starlanczos.cz/the-project">project
 # Research interests #
 
 * Structured matrices
-* Orthogonal polynomials
-* Short recurrence relations
+* Orthogonal polynomials and rational functions
 * Spectral methods
 * Biorthogonal Krylov subspace methods
