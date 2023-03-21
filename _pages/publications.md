@@ -7,6 +7,9 @@ title: Publications
 ## Preprints ##
 All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+buggenhout&searchtype=all" target="_blank" rel="noopener noreferrer">here</a> 
 
+
+* **A new Legendre polynomial-based approach for non-autonomous linear ODEs** ,Pozza S., and Van Buggenhout, N. (2023) <a href="https://arxiv.org/abs/2303.11284" target="_blank" rel="noopener noreferrer">[Link]</a> 
+
 * **On generating Sobolev orthogonal polynomials**, Van Buggenhout, N. (2023) <a href="https://arxiv.org/abs/2302.10691" target="_blank" rel="noopener noreferrer">[Link]</a>
 
 * **Algorithms for Modifying Recurrence Relations of Orthogonal Polynomial and Rational Functions when Changing the Discrete Inner Product**, Van Barel, M., Van Buggenhout, N., and Vandebril R. (2023) <a href="https://arxiv.org/abs/2302.00355" target="_blank" rel="noopener noreferrer">[Link]</a>
