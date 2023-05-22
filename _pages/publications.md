@@ -14,12 +14,7 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
 
 * **Algorithms for Modifying Recurrence Relations of Orthogonal Polynomial and Rational Functions when Changing the Discrete Inner Product**, Van Barel, M., Van Buggenhout, N., and Vandebril R. (2023) <a href="https://arxiv.org/abs/2302.00355" target="_blank" rel="noopener noreferrer">[Link]</a>
 
-* **The $\star$-product approach for linear ODEs: a numerical study of the scalar case**, Pozza, S., and Van Buggenhout, N. (2022) <a href="https://arxiv.org/abs/2209.13322" target="_blank" rel="noopener noreferrer">[Link]</a>
-
 * **A $\star$-product solver with spectral accuracy for non-autonomous ordinary differential equations**, Pozza, S., and Van Buggenhout, N. (2022) <a href="https://arxiv.org/abs/2209.15533" target="_blank" rel="noopener noreferrer">[Link]</a>
-
-
-* **A new matrix equation expression for the solution of non-autonomous linear systems of ODEs**, Pozza, S., and Van Buggenhout, N. (2022) <a href="https://arxiv.org/abs/2210.07052" target="_blank" rel="noopener noreferrer">[Link]</a>
 
 
 
@@ -37,6 +32,11 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
     
 *  <span style="color:black">**Biorthogonal rational Krylov subspace methods**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Electronic Transactions on Numerical Analysis, vol. 51 (2019), pp. 451-468 </span> <a href="https://doi.org/10.1553/etna_vol51s451" target="_blank" rel="noopener noreferrer">[Link]</a>
 
+## Conference proceedings ##
+* **The $\star$-product approach for linear ODEs: a numerical study of the scalar case**, Pozza, S., and Van Buggenhout, N., PANM21, (2023) <a href="https://doi.org/10.21136/panm.2022.17" target="_blank" rel="noopener noreferrer">[Link]</a>
+
+* **A new matrix equation expression for the solution of non-autonomous linear systems of ODEs**, Pozza, S., and Van Buggenhout, N., PAMM vol. 22, no. 1, (2023) <a href="https://doi.org/10.1002/pamm.202200117" target="_blank" rel="noopener noreferrer">[Link]</a>
+
     
 # PhD thesis #
 * <span style="color:black">**Structured Matrix Techniques for Orthogonal Rational Functions and Rational Krylov Methods**</span>  
@@ -48,25 +48,27 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
 # Talks #
 <span style="color:black">
 
-* "$\star$-procedure to solve non-autonomous ODEs". Seminar on Numerical Analysis (SNA'23), Ostrava, January 23-27, 2023.
+* "Algorithms for modifying recurrence relations of orthogonal polynomial and rational functions when changing the discrete inner product ". Seminar classical analysis, KU Leuven, Leuven, Belgium, April 18, 2022.
 
-* "$\star$-procedure to solve non-autonomous ODEs". GAMM Workshop on Applied and Numerical Linear Algebra (GAMM ANLA), Prague, 22-23 Sep, 2022.
+* "$\star$-procedure to solve non-autonomous ODEs". Seminar on Numerical Analysis (SNA'23), Ostrava, Czech Republic, January 23-27, 2023.
 
-* "Discretization of the $\star$-product". 92nd annual meeting of the International Association of Applied Mathematics and Mechanics (GAMM), Aachen, 15-19 Aug, 2022
+* "$\star$-procedure to solve non-autonomous ODEs". GAMM Workshop on Applied and Numerical Linear Algebra (GAMM ANLA), Prague, Czech Republic, 22-23 Sep, 2022.
 
-* "Generating orthogonal polynomials with Krylov subspace methods'". Summer school on Orthogonal Polynomials, Special Functions and their Applications (OPSFA), Radboud university, Nijmegen, 7-12 Aug, 2022.
+* "Discretization of the $\star$-product". 92nd annual meeting of the International Association of Applied Mathematics and Mechanics (GAMM), Aachen, Germany, 15-19 Aug, 2022
 
-* "Construction of a sequence of orthogonal rational functions". Conference on Functional Analysis, Approximation Theory and Numerical Analysis (FAATNA20>22), Matera, 5-8 Jul, 2022.
+* "Generating orthogonal polynomials with Krylov subspace methods'". Summer school on Orthogonal Polynomials, Special Functions and their Applications (OPSFA), Radboud university, Nijmegen, The Netherlands, 7-12 Aug, 2022.
 
-* "$\star$-Lanczos procedure for non-autonomous ODEs". 24th Conference of the International Linear Algebra Society, Galway, 20-24 Jun, 2022.
+* "Construction of a sequence of orthogonal rational functions". Conference on Functional Analysis, Approximation Theory and Numerical Analysis (FAATNA20>22), Matera, Italy, 5-8 Jul, 2022.
 
-* "Solving non-autonomous ODEs  in the $\star$-framework". Numerical Linear Algebra seminar, university of Manchester, 16 Jun, 2022.
+* "$\star$-Lanczos procedure for non-autonomous ODEs". 24th Conference of the International Linear Algebra Society, Galway, Ireland, 20-24 Jun, 2022.
 
-* "Discretization of the $\star$-Lanczos procedure". Conference on Numerical Methods for Large Scale Problems (NMLSP 2022), Belgrade, 6-10 Jun, 2022.
+* "Solving non-autonomous ODEs  in the $\star$-framework". Numerical Linear Algebra seminar, university of Manchester, Manchester, UK, 16 Jun, 2022.
 
-* "Structured matrices in (rational) Krylov subspace methods". Seminar of Numerical Mathematics, Charles University, 17 Feb 2022.
+* "Discretization of the $\star$-Lanczos procedure". Conference on Numerical Methods for Large Scale Problems (NMLSP 2022), Belgrade, Serbia, 6-10 Jun, 2022.
 
-* "Construction of a sequence of orthogonal rational functions". Conference on Numerical Methods and Scientific Computing (NMSC21), CIRM Luminy, 8-12 Nov, 2021
+* "Structured matrices in (rational) Krylov subspace methods". Seminar of Numerical Mathematics, Charles University, Prague, Czech Republic, 17 Feb 2022.
+
+* "Construction of a sequence of orthogonal rational functions". Conference on Numerical Methods and Scientific Computing (NMSC21), CIRM Luminy, Luminy, France, 8-12 Nov, 2021
 
 * "Generating orthogonal rational functions by solving structured inverse eigenvalue problems". SIAM conference on Applied Linear Algebra (LA21), Virtual, 17-21 May 2021.
 
