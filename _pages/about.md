@@ -29,7 +29,7 @@ Here, I am working on a <a href="https://www.starlanczos.cz/the-project">project
 
 # Research interests #
 
-* Structured matrices
+* Structured matrices in (bi)orthogonal Krylov subspace methods
 * Orthogonal polynomials and rational functions
 * Spectral methods
-* Biorthogonal Krylov subspace methods
+* Quantum Krylov methods
