@@ -11,6 +11,9 @@ Relevant publication: See <a href="https://doi.org/10.1007/s00211-023-01379-3" t
 Software is available on my github page: <a href="https://github.com/nielvb/SOP" target="_blank" rel="noopener noreferrer">[Code]</a>
 
 
+## Spectral Methods ##
+(work in progress)
+
 ## Rational Functions ##
 (Work in progress)
 
