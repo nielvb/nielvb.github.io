@@ -54,7 +54,7 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
 # Talks #
 <span style="color:black">
 
-* "Towards a global solver for the time-dependent Schrödinger equation", at Computational and Applied Mathematics 2023, Selva di Fasano, Italy, (29 Aug-01 September, 2023.
+* "Towards a global solver for the time-dependent Schrödinger equation", at Computational and Applied Mathematics 2023, Selva di Fasano, Italy, 29 Aug-01 September, 2023.
 
 * "A new Legendre polynomial-based approach for non-autonomous linear ODEs", Numerical Analysis in the 21st Century, Oxford, UK, 14-17 August, 2023.
 
