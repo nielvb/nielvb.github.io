@@ -8,7 +8,7 @@ title: Publications
 All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+buggenhout&searchtype=all" target="_blank" rel="noopener noreferrer">here</a> 
 
 
-* **A new Legendre polynomial-based approach for non-autonomous linear ODEs** ,Pozza S., and Van Buggenhout, N. (2023) <a href="https://arxiv.org/abs/2303.11284" target="_blank" rel="noopener noreferrer">[Link]</a> 
+* **A new Legendre polynomial-based approach for non-autonomous linear ODEs**, Pozza S., and Van Buggenhout, N. (2023) <a href="https://arxiv.org/abs/2303.11284" target="_blank" rel="noopener noreferrer">[Link]</a> 
 
 * **On generating Sobolev orthogonal polynomials**, Van Buggenhout, N. (2023) <a href="https://arxiv.org/abs/2302.10691" target="_blank" rel="noopener noreferrer">[Link]</a>
 
