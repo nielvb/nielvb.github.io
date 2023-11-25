@@ -1,6 +1,6 @@
 ---
 
-permalink: /Projections
+permalink: /Projects
 title: Projects
 
 ---
