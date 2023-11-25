@@ -7,36 +7,37 @@ title: Publications
 ## Preprints ##
 All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+buggenhout&searchtype=all" target="_blank" rel="noopener noreferrer">here</a> 
 
+* **A new fast numerical method for the generalized Rosen-Zener model**, with(Pozza, S., and Bonhomme, C.), (2023) <a href="https://arxiv.org/abs/2311.04144" target="_blank" rel="noopener noreferrer">[Link]</a> 
 
-* **A new Legendre polynomial-based approach for non-autonomous linear ODEs**, Pozza S., and Van Buggenhout, N. (2023) <a href="https://arxiv.org/abs/2303.11284" target="_blank" rel="noopener noreferrer">[Link]</a> 
-
-* **On generating Sobolev orthogonal polynomials**, Van Buggenhout, N. (2023) <a href="https://arxiv.org/abs/2302.10691" target="_blank" rel="noopener noreferrer">[Link]</a>
-
-* **Algorithms for Modifying Recurrence Relations of Orthogonal Polynomial and Rational Functions when Changing the Discrete Inner Product**, Van Barel, M., Van Buggenhout, N., and Vandebril R. (2023) <a href="https://arxiv.org/abs/2302.00355" target="_blank" rel="noopener noreferrer">[Link]</a>
-
-* **A $\star$-product solver with spectral accuracy for non-autonomous ordinary differential equations**, Pozza, S., and Van Buggenhout, N. (2022) <a href="https://arxiv.org/abs/2209.15533" target="_blank" rel="noopener noreferrer">[Link]</a>
+* **A new Legendre polynomial-based approach for non-autonomous linear ODEs**,(with Pozza, S.),(2023) <a href="https://arxiv.org/abs/2303.11284" target="_blank" rel="noopener noreferrer">[Link]</a> 
 
 
 
 
 ## Journal Articles ##
+* **On generating Sobolev orthogonal polynomials**, Numer. Math., vol. 155, pp. 415–443, (2023). <a href="https://doi.org/10.1007/s00211-023-01379-3" target="_blank" rel="noopener noreferrer">[Link]</a>
 
-* <span style="color:black">**A Lanczos-type procedure for tensors**, Cipolla, S., Pozza, S., Redivo-Zaglia, M., and Van Buggenhout, N., Numerical Algorithms,Numerical Algorithms 92, 377–406 (2023).</span>
+* **Algorithms for Modifying Recurrence Relations of Orthogonal Polynomial and Rational Functions when Changing the Discrete Inner Product**,(with Van Barel, M., and Vandebril R.) Appl. Numer. Math., published online (2023). <a href="https://doi.org/10.1016/j.apnum.2023.07.009" target="_blank" rel="noopener noreferrer">[Link]</a>
+
+* <span style="color:black">**A Lanczos-type procedure for tensors**, (with Cipolla, S., Pozza, S., and Redivo-Zaglia, M.), Numerical Algorithms, vol. 92, pp. 377–406, (2023).</span>
 <a href="https://doi.org/10.1007/s11075-022-01351-6" target="_blank" rel="noopener noreferrer">[Link]</a>
 
-* <span style="color:black">**Generation of orthogonal rational functions by procedures for structured matrices**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Numerical Algorithms, vol. 89 (2022), pp. 551-582 </span> <a href="https://doi.org/10.1007/s11075-021-01125-6" target="_blank" rel="noopener noreferrer">[Link]</a>
+* <span style="color:black">**Generation of orthogonal rational functions by procedures for structured matrices**, (with Van Barel, M., and Vandebril, R.), Numerical Algorithms, vol. 89, pp. 551-582, (2022). </span> <a href="https://doi.org/10.1007/s11075-021-01125-6" target="_blank" rel="noopener noreferrer">[Link]</a>
 
 
-*  <span style="color:black">**Non-unitary CMV-decomposition**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Special Matrices, vol. 8, no. 1, (2020), pp. 144-159 </span> <a href="https://doi.org/10.1515/spma-2020-0107" target="_blank" rel="noopener noreferrer">[Link]</a>
+*  <span style="color:black">**Non-unitary CMV-decomposition**, (with Van Barel, M., and Vandebril, R.), Special Matrices, vol. 8, no. 1, pp. 144-159, (2020). </span> <a href="https://doi.org/10.1515/spma-2020-0107" target="_blank" rel="noopener noreferrer">[Link]</a>
 
     
-*  <span style="color:black">**Biorthogonal rational Krylov subspace methods**, Van Buggenhout, N., Van Barel, M., and Vandebril, R., Electronic Transactions on Numerical Analysis, vol. 51 (2019), pp. 451-468 </span> <a href="https://doi.org/10.1553/etna_vol51s451" target="_blank" rel="noopener noreferrer">[Link]</a>
+*  <span style="color:black">**Biorthogonal rational Krylov subspace methods**, (Van Barel, M., and Vandebril, R.), Electronic Transactions on Numerical Analysis, vol. 51, pp. 451-468, (2019). </span> <a href="https://doi.org/10.1553/etna_vol51s451" target="_blank" rel="noopener noreferrer">[Link]</a>
 
 ## Conference proceedings ##
-* **The $\star$-product approach for linear ODEs: a numerical study of the scalar case**, Pozza, S., and Van Buggenhout, N., PANM21, (2023) <a href="https://doi.org/10.21136/panm.2022.17" target="_blank" rel="noopener noreferrer">[Link]</a>
+* **The $\star$-product approach for linear ODEs: a numerical study of the scalar case**, (with Pozza, S.), PANM21, (2023). <a href="https://doi.org/10.21136/panm.2022.17" target="_blank" rel="noopener noreferrer">[Link]</a>
 
-* **A new matrix equation expression for the solution of non-autonomous linear systems of ODEs**, Pozza, S., and Van Buggenhout, N., PAMM vol. 22, no. 1, (2023) <a href="https://doi.org/10.1002/pamm.202200117" target="_blank" rel="noopener noreferrer">[Link]</a>
+* **A new matrix equation expression for the solution of non-autonomous linear systems of ODEs**, (with Pozza, S.), PAMM, vol. 22, no. 1, (2023). <a href="https://doi.org/10.1002/pamm.202200117" target="_blank" rel="noopener noreferrer">[Link]</a>
 
+* **A $\star$-product solver with spectral accuracy for non-autonomous ordinary differential equations**, (with Pozza, S.), PAMM, vol. 23, no. 1 (2023). <a href="https://doi.org/10.1002/pamm.202200050" target="_blank" rel="noopener noreferrer">[Link]</a>
+
+* **Fourier extension and sampling on the sphere**, (with Potts, D.), International Conference on Sampling Theory and Applications (SampTA), IEEE, vol. 1, pp. 82-86, (2017). <a href="https://doi.org/10.1109/SAMPTA.2017.8024365" target="_blank" rel="noopener noreferrer">[Link]</a>
     
 # PhD thesis #
 * <span style="color:black">**Structured Matrix Techniques for Orthogonal Rational Functions and Rational Krylov Methods**</span>  
