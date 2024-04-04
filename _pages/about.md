@@ -35,4 +35,4 @@ I received my PhD at KU Leuven under the supervision of Marc Van Barel and Raf V
 * Structured matrices in (bi)orthogonal Krylov subspace methods
 * Orthogonal polynomials and rational functions
 * Spectral methods
-* Quantum Krylov methods
+* Rational function computation on quantum computers
