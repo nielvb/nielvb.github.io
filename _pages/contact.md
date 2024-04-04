@@ -10,7 +10,7 @@ title: Contact
 
 ### email
 
-buggenhout[at]karlin.mff.cuni.cz
+nvanbugg[at]math.uc3m.es
 
 ### google scholar
 
