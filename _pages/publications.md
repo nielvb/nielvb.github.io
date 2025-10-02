@@ -60,6 +60,7 @@ men), arXiv quant-ph, (2024) <a href="https://arxiv.org/abs/2408.07742" target="
 ## Upcoming conferences ##
 
 
+* "TBA", Foundations of Computational Mathematics 2026 Conference (FoCM 2026) Vienna, Austria (8-18 July 2026). <a href="https://focm2026.univie.ac.at/" target="_blank" rel="noopener noreferrer">[Link to conference]</a>
 
 
 
