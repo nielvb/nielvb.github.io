@@ -9,10 +9,10 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
 
 
 * **Quantum Rational Transformation Using Linear Combinations of Hamiltonian Simulations**,(with Yizhi Shen, Daan Camps, Katherine Klymko, and Roel Van Beeu-
-men), arXiv quant-ph, (2024) <a href="https://arxiv.org/abs/2408.07742" target="_blank" rel="noopener noreferrer">[Link]</a> 
+men), arXiv quant-ph (2024) <a href="https://arxiv.org/abs/2408.07742" target="_blank" rel="noopener noreferrer">[Link]</a> 
 
 
-* **A new fast numerical method for the generalized Rosen-Zener model**, with(Pozza, S., and Bonhomme, C.), (2023) <a href="https://arxiv.org/abs/2311.04144" target="_blank" rel="noopener noreferrer">[Link]</a> 
+* **A new fast numerical method for the generalized Rosen-Zener model**, with(Pozza, S., and Bonhomme, C.), arXiv math.NA (2023) <a href="https://arxiv.org/abs/2311.04144" target="_blank" rel="noopener noreferrer">[Link]</a> 
 
 
 ## Journal Articles ##
