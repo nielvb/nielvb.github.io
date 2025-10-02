@@ -5,12 +5,16 @@ title: Publications
 
 ---
 ## Preprints ##
-All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+buggenhout&searchtype=all" target="_blank" rel="noopener noreferrer">here</a> 
+All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+buggenhout&searchtype=all" target="_blank" rel="noopener noreferrer">here</a>
+
+
+**Quantum Rational Transformation Using Linear Combinations of Hamiltonian Simulations**,(with Yizhi Shen, Daan Camps, Katherine Klymko, and Roel Van Beeu-
+men), arXiv quant-ph, (2024) <a href="https://arxiv.org/abs/2408.07742" target="_blank" rel="noopener noreferrer">[Link]</a> 
+
 
 * **A new fast numerical method for the generalized Rosen-Zener model**, with(Pozza, S., and Bonhomme, C.), (2023) <a href="https://arxiv.org/abs/2311.04144" target="_blank" rel="noopener noreferrer">[Link]</a> 
 
-* **A new Legendre polynomial-based approach for non-autonomous linear ODEs**,(with Pozza, S.),(2023) <a href="https://arxiv.org/abs/2303.11284" target="_blank" rel="noopener noreferrer">[Link]</a> 
-
+* 
 
 
 
@@ -55,15 +59,34 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
     <a href ="/assets/pdf/thesis.pdf" attributes-list download >[Link]</a>  
 ## Upcoming conferences ##
 
-* "TBA", at Numerical Linear Algebra meeting, CIRM, Luminy, France, 16-20 September 2024. <a href="https://conferences.cirm-math.fr/3064.html" target="_blank" rel="noopener noreferrer">[Link to conference]</a>
 
-* "From non-autonomous linear ODEs to a matrix equation and its efficient approximation", at SIAM LA24, Paris, France, 13-17 May 2024. <a href="https://www.siam.org/conferences/cm/conference/la24" target="_blank" rel="noopener noreferrer">[Link to conference]</a>
+
 
 
 
     
 # Talks #
 <span style="color:black">
+* "Numerically generating Sobolev orthogonal polynomials", Householder Symposium XXII Cornell University, Ithaca, USA (8-13 June 2025). <a href="https://householder-symposium.github.io/abstracts/paper108.html" target="_blank" rel="noopener noreferrer">[Link to conference]</a>
+
+
+* "Rational functions in quantum computing". Séminaire équipe EMA, ULCO, Calais, France (22 May 2025). <a href="https://lmpa.univ-littoral.fr/index.php?page_id=11" target="_blank" rel="noopener noreferrer">[Link to conference]</a>
+
+* "Rational functions in quantum computing". Seminar of Numerical Mathematics, Charles University, Prague, Czech Republic (15 May 2025). <a href="https://seminar-nm.karlin.mff.cuni.cz/" target="_blank" rel="noopener noreferrer">[Link to conference]</a>
+
+* "On numerically generating Sobolev orthogonal polynomials". Ibero-American Seminar, UC3M and Universidad Autonoma de Santo Domingo, virtual, international (28 February 2025). <a href="https://sites.google.com/view/seminario-gamma/" target="_blank" rel="noopener noreferrer">[Link to conference]</a> 
+
+* "A new Legendre polynomial-based approach for non-autonomous linear ODEs", Mathematical Modeling with Applications (M2A25), University Cadi Ayyad, Marrakesh, Morocco (18-20 February 2025). <a href="https://www.m2a25-conference.ma/" target="_blank" rel="noopener noreferrer">[Link to conference]</a> 
+
+* "Rational functions in quantum computing". Q-math seminar, UC3M and ICMAT, Madrid, Spain (12 November 2024). <a href="http://www.q-math.es/" target="_blank" rel="noopener noreferrer">[Link to conference]</a> 
+
+* "Rational functions in quantum computing". XVIII Workshop de Jóvenes Investigadores. Universidad Complutense de Madrid (UCM), Instituto de Matemática Interdisciplinar (IMI), Universidad Carlos III de Madrid (UC3M) y Universidad Autónoma de Madrid (UAM), Madrid,
+Spain, (23-25 September 2024).
+
+
+* "Rational functions in quantum computing", at Numerical Linear Algebra meeting, CIRM, Luminy, France, 16-20 September 2024. <a href="https://conferences.cirm-math.fr/3064.html" target="_blank" rel="noopener noreferrer">[Link to conference]</a>
+
+* "From non-autonomous linear ODEs to a matrix equation and its efficient approximation", at SIAM LA24, Paris, France, 13-17 May 2024. <a href="https://www.siam.org/conferences/cm/conference/la24" target="_blank" rel="noopener noreferrer">[Link to conference]</a>
 
 * "Towards a global solver for the time-dependent Schrödinger equation", at Computational and Applied Mathematics 2023, Selva di Fasano, Italy, 29 Aug-01 September, 2023.
 
