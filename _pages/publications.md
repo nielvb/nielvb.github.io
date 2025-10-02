@@ -15,9 +15,20 @@ All preprints can be found <a href="https://arxiv.org/search/?query=niel+van+bug
 
 
 ## Journal Articles ##
+* **Constructing Sobolev orthonormal rational functions via an updating procedure**, (with Faghih, A., Van Barel, M., and Vandebril, R.) Numer. Algor., published online (2025). <a href="https://doi.org/10.1007/s11075-025-02149-y" target="_blank" rel="noopener noreferrer">[Link]</a>
+
+
+* **A Rational Arnoldi Approach for Sobolev Rational Least Squares Problems**, (with Faghih, A., Van Barel, M., and Vandebril, R.) Numer. Linear Algebra Appl., vol. 32 , pp. e70017 (2025). <a href="https://doi.org/10.1002/nla.70017" target="_blank" rel="noopener noreferrer">[Link]</a>
+
+
+* **On computing the zeros of Laguerre–Sobolev polynomials**, (with Laudadio, T., Mastronardi, N., Marcellán Español, F.J., Van Dooren, P.) Numer. Algor., published online (2025). <a href="https://doi.org/10.1007/s11075-025-02021-z" target="_blank" rel="noopener noreferrer">[Link]</a>
+
+* **A new Legendre polynomial-based approach for non-autonomous linear ODEs**, (with Pozza, S.) Electronic Transactions on Numerical Analysis, vol. 60, pp. 292-326, (2024). <a href="https://doi.org/10.1553/etna_vol60s292" target="_blank" rel="noopener noreferrer">[Link]</a>
+
+* **Algorithms for Modifying Recurrence Relations of Orthogonal Polynomial and Rational Functions when Changing the Discrete Inner Product**, (with Van Barel, M., and Vandebril R.) Appl. Numer. Math., vol. 200, pp. 429-452, (2024). <a href="https://doi.org/10.1016/j.apnum.2023.07.009" target="_blank" rel="noopener noreferrer">[Link]</a>
+
 * **On generating Sobolev orthogonal polynomials**, Numer. Math., vol. 155, pp. 415–443, (2023). <a href="https://doi.org/10.1007/s00211-023-01379-3" target="_blank" rel="noopener noreferrer">[Link]</a>
 
-* **Algorithms for Modifying Recurrence Relations of Orthogonal Polynomial and Rational Functions when Changing the Discrete Inner Product**,(with Van Barel, M., and Vandebril R.) Appl. Numer. Math., published online (2023). <a href="https://doi.org/10.1016/j.apnum.2023.07.009" target="_blank" rel="noopener noreferrer">[Link]</a>
 
 * <span style="color:black">**A Lanczos-type procedure for tensors**, (with Cipolla, S., Pozza, S., and Redivo-Zaglia, M.), Numerical Algorithms, vol. 92, pp. 377–406, (2023).</span>
 <a href="https://doi.org/10.1007/s11075-022-01351-6" target="_blank" rel="noopener noreferrer">[Link]</a>
